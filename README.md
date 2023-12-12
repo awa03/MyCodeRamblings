@@ -3,13 +3,15 @@ This is essentiall a compilation of my code, heavily explained in detail. Don't 
 
 ## LinkyListy
 This is the first practice writing I have done. It is heavily commented, so be warned. 
-Linked List implementation
+
+**Linked List implementation**
 - Reverse
 - Add / Remove
 - Constructors
 - Assignment
 - Basic Getters
-Stack
+
+**Stack**
 - Pop
 - Push
 - Top
